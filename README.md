@@ -50,7 +50,7 @@ Ikuti langkah-langkah di bawah ini untuk melatih model dan menjalankan dashboard
 
 Kloning repositori ini dan buat *virtual environment*:
 
-git clone https://github.com/dicky1207/dashboard\_stanford40.git  
+git clone https://github.com/dicky1207/dashboard_stanford40.git  
 cd dashboard\_stanford40
 
 \# Buat virtual environment & aktifkan (opsional namun disarankan)  
@@ -95,4 +95,4 @@ Skrip pelatihan akan otomatis memplot **Akurasi & Loss per Epoch** dan menghasil
 
 ## **👨‍💻 Kredit**
 
-Dikembangkan oleh [**Muhammad Dicky Imansyah**](https://instagram.com/_monarch12/) (Copyright © 2026 \- Magister Teknik Informatika).
+Dikembangkan oleh [**Muhammad Dicky Imansyah**](https://instagram.com/_monarch12/) (Copyright © 2026 \- Magister Teknik Informatika \- UPI YPTK).
